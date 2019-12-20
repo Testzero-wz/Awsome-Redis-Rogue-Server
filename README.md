@@ -4,7 +4,7 @@
 
 `Redis Rogue Server`的涉及主要技术为Redis的**主从复制**以及**外部模块加载**，攻击核心思路如下：
 
-![redis未授权RCE](redis未授权RCE.jpg)
+![redis-rogue-server.jpg](https://i.loli.net/2019/12/20/KfcrkUu89joGe34.png)
 
 
 
